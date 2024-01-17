@@ -1,9 +1,9 @@
 {
-  "name": "goose-group-7_backend",
+  "name": "GooseTrack-backend",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "repository": "https://github.com/Dimitri-Y/GooseTrack-group-7_backend",
+  "repository": "https://github.com/TarasMysiura/GooseTrack-backend",
   "main": "server.js",
   "node": "v20.8.0",
   "scripts": {
